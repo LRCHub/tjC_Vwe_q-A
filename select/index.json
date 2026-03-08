@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "アトラクションがはじまる (they call it \"NO.6\")",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2026-03-08T09:58:15.774380Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アトラクションがはじまる (they call it \"NO.6\")",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_アトラクションがはじまる_(they_call_it__NO.6_)_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アトラクションがはじまる (they call it “NO.6”)",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/02_アトラクションがはじまる_(they_call_it_“NO.6”)_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アトラクションがはじまる（they call it “NO.6”）",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/03_アトラクションがはじまる(they_call_it_“NO.6”)_UNISON_SQUARE_GARDEN.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アトラクションがはじまる",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/04_アトラクションがはじまる_UNISON_SQUARE_GARDEN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アトラクションがはじまる (they call it \"NO.6\")",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_アトラクションがはじまる_(they_call_it__NO.6_)_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
